@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="EXT:context_menu/Resources/Private/Language/locallang.xlf" date="2024-01-20T11:20:00Z" product-name="context_menu">
+        <header/>
+        <body>
+            <trans-unit id="item-provider.codebreak-option">
+                <source>Codebreak Option</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
